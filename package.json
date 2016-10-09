@@ -1,7 +1,7 @@
 {
-  "name": "aurelia-cookie",
+  "name": "@nexbit/aurelia-cookie",
   "description": "A simplistic ES2015 class for working with cookies in Aurelia (or any modern Javascript application).",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "main": "dist/commonjs/index.js",
   "typings": "dist/commonjs/index.d.ts",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vheissu/aurelia-cookie.git"
+    "url": "git+https://github.com/nexbit/aurelia-cookie.git"
   },
   "keywords": [
     "aurelia",
@@ -20,9 +20,9 @@
   "author": "Dwayne Charrington <dwaynecharrington@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Vheissu/aurelia-cookie/issues"
+    "url": "https://github.com/nexbit/aurelia-cookie/issues"
   },
-  "homepage": "https://github.com/Vheissu/aurelia-cookie#readme",
+  "homepage": "https://github.com/nexbit/aurelia-cookie#readme",
   "jspm": {
     "registry": "npm",
     "jspmPackage": true,
