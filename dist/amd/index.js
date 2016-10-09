@@ -1,4 +1,4 @@
-define(["require", "exports", './cookie'], function (require, exports, cookie_1) {
+define(["require", "exports", "./cookie"], function (require, exports, cookie_1) {
     "use strict";
     exports.Cookie = cookie_1.Cookie;
     function configure(aurelia) {

@@ -1,5 +1,5 @@
 "use strict";
-var cookie_1 = require('./cookie');
+var cookie_1 = require("./cookie");
 exports.Cookie = cookie_1.Cookie;
 function configure(aurelia) {
     aurelia.container.registerSingleton(cookie_1.Cookie, new cookie_1.Cookie());
