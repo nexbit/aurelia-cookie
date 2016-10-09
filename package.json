@@ -5,7 +5,7 @@
   "main": "dist/commonjs/index.js",
   "typings": "dist/commonjs/index.d.ts",
   "scripts": {
-    "build": "build.sh",
+    "build": "./build.sh",
     "test": "node_modules/.bin/karma start test/karma.conf.js --single-run"
   },
   "repository": {
